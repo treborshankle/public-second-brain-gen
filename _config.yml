@@ -22,8 +22,9 @@ title: Trebor's Second Brain
 description: >- # this means to ignore newlines until "baseurl:"
   This is the public contents of Trebor's second brain.  You probably don't need to be here
   unless he told you to look at something.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+domain: treborshankle.github.io
+baseurl: "/trebors-second-brain" # the subpath of your site, e.g. /blog
+url: "https://treborshankle.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  treborshankle
 
 # Build settings
